@@ -9,4 +9,4 @@ nuevo cambio
 
 
 #navegación
-{Enlace a pagina 2} (pagina2.md)
+[Enlace a pagina 2](pagina2.md)
